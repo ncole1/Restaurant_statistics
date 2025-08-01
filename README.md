@@ -9,3 +9,5 @@ By setting relayCoefficient to a larger number (such as 0.002), the rating data 
 Thus, this test combines actual data with synthetic functions in order to better characterize the model's performance relative to what is possible based on mathematical theory, while retaining the ability to run the model for actual prediction of the unaltered rating data.
 
 To run the code, clone the repository and change the file paths in the code to the correct folder containing the input data files, before running the code. 
+
+Update 8/1/2025: New script file added which is based on XG Boost, runs on the same data but seems much more efficient and accurate.
